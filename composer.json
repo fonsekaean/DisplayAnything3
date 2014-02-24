@@ -1,6 +1,6 @@
 {
-	"name": "fonsekaean/silverstripe-metadata",
-	"description":  "A fork for the SilverStirpe / silverstripe-metadata",
+	"name": "fonsekaean/DisplayAnything3",
+	"description":  "A fork for the DisplayAnything3",
 	"require": {
 		"silverstripe/framework": "3.2.*@dev"
 	}
